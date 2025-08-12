@@ -11,3 +11,7 @@ color: #6BC449!important;
 .bg-dark{
     background-color: black!important;
 }
+.bg-success {
+      background: linear-gradient(to right, #6BC647 ,#6BCC3F,
+#6AD630)!important;
+}
